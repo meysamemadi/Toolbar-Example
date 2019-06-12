@@ -1,0 +1,3 @@
+# Toolbar-Example
+we add action icons in Toobar and on click of navigation Button of Toolbar we open a Navigation Drawer. In our main layout we use Drawer Layout and Navigation View. Drawer Layout is the root layout in which we include a Toolbar and also define a FrameLayout and a Navigation View. In Navigation View we set the items from menu file and FrameLayout is used to replace the Fragments on the click of menu items. Whenever a user click on menu item, Fragment is replaced according to menu item’s id and a toast message with menu item title is displayed on the screen. We also create three Fragments that should be replaced on click of menu items
+<br> See More on https://serverha.net
